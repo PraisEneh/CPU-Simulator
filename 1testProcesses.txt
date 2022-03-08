@@ -1,0 +1,13 @@
+107 charlie 2 3 5 6 3 5 6 end
+
+207 bravo 5 4 6 5 7 3 1 end
+
+234 oxtail 3 2 8 4 2 7 2 end
+
+104 omega 4 7 9 4 4 8 3 end
+
+396 alpha 1 4 4 5 2 4 1 end
+
+247 sigma 6 1 5 3 4 6 2 end
+
+131 pi 7 3 2 3 4 1 2 end
